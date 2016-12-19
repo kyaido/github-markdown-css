@@ -12,7 +12,7 @@ body#com-atlassian-confluence .wiki-content * {
   font-weight: normal;
 }
 
-#com-atlassian-confluence .wiki-content {
+body#com-atlassian-confluence .wiki-content {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   line-height: 1.5;
@@ -23,194 +23,194 @@ body#com-atlassian-confluence .wiki-content * {
   word-wrap: break-word;
 }
 
-#com-atlassian-confluence .wiki-content .pl-c {
+body#com-atlassian-confluence .wiki-content .pl-c {
   color: #969896;
 }
 
-#com-atlassian-confluence .wiki-content .pl-c1,
-#com-atlassian-confluence .wiki-content .pl-s .pl-v {
+body#com-atlassian-confluence .wiki-content .pl-c1,
+body#com-atlassian-confluence .wiki-content .pl-s .pl-v {
   color: #0086b3;
 }
 
-#com-atlassian-confluence .wiki-content .pl-e,
-#com-atlassian-confluence .wiki-content .pl-en {
+body#com-atlassian-confluence .wiki-content .pl-e,
+body#com-atlassian-confluence .wiki-content .pl-en {
   color: #795da3;
 }
 
-#com-atlassian-confluence .wiki-content .pl-smi,
-#com-atlassian-confluence .wiki-content .pl-s .pl-s1 {
+body#com-atlassian-confluence .wiki-content .pl-smi,
+body#com-atlassian-confluence .wiki-content .pl-s .pl-s1 {
   color: #333;
 }
 
-#com-atlassian-confluence .wiki-content .pl-ent {
+body#com-atlassian-confluence .wiki-content .pl-ent {
   color: #63a35c;
 }
 
-#com-atlassian-confluence .wiki-content .pl-k {
+body#com-atlassian-confluence .wiki-content .pl-k {
   color: #a71d5d;
 }
 
-#com-atlassian-confluence .wiki-content .pl-s,
-#com-atlassian-confluence .wiki-content .pl-pds,
-#com-atlassian-confluence .wiki-content .pl-s .pl-pse .pl-s1,
-#com-atlassian-confluence .wiki-content .pl-sr,
-#com-atlassian-confluence .wiki-content .pl-sr .pl-cce,
-#com-atlassian-confluence .wiki-content .pl-sr .pl-sre,
-#com-atlassian-confluence .wiki-content .pl-sr .pl-sra {
+body#com-atlassian-confluence .wiki-content .pl-s,
+body#com-atlassian-confluence .wiki-content .pl-pds,
+body#com-atlassian-confluence .wiki-content .pl-s .pl-pse .pl-s1,
+body#com-atlassian-confluence .wiki-content .pl-sr,
+body#com-atlassian-confluence .wiki-content .pl-sr .pl-cce,
+body#com-atlassian-confluence .wiki-content .pl-sr .pl-sre,
+body#com-atlassian-confluence .wiki-content .pl-sr .pl-sra {
   color: #183691;
 }
 
-#com-atlassian-confluence .wiki-content .pl-v {
+body#com-atlassian-confluence .wiki-content .pl-v {
   color: #ed6a43;
 }
 
-#com-atlassian-confluence .wiki-content .pl-id {
+body#com-atlassian-confluence .wiki-content .pl-id {
   color: #b52a1d;
 }
 
-#com-atlassian-confluence .wiki-content .pl-ii {
+body#com-atlassian-confluence .wiki-content .pl-ii {
   color: #f8f8f8;
   background-color: #b52a1d;
 }
 
-#com-atlassian-confluence .wiki-content .pl-sr .pl-cce {
+body#com-atlassian-confluence .wiki-content .pl-sr .pl-cce {
   font-weight: bold;
   color: #63a35c;
 }
 
-#com-atlassian-confluence .wiki-content .pl-ml {
+body#com-atlassian-confluence .wiki-content .pl-ml {
   color: #693a17;
 }
 
-#com-atlassian-confluence .wiki-content .pl-mh,
-#com-atlassian-confluence .wiki-content .pl-mh .pl-en,
-#com-atlassian-confluence .wiki-content .pl-ms {
+body#com-atlassian-confluence .wiki-content .pl-mh,
+body#com-atlassian-confluence .wiki-content .pl-mh .pl-en,
+body#com-atlassian-confluence .wiki-content .pl-ms {
   font-weight: bold;
   color: #1d3e81;
 }
 
-#com-atlassian-confluence .wiki-content .pl-mq {
+body#com-atlassian-confluence .wiki-content .pl-mq {
   color: #008080;
 }
 
-#com-atlassian-confluence .wiki-content .pl-mi {
+body#com-atlassian-confluence .wiki-content .pl-mi {
   font-style: italic;
   color: #333;
 }
 
-#com-atlassian-confluence .wiki-content .pl-mb {
+body#com-atlassian-confluence .wiki-content .pl-mb {
   font-weight: bold;
   color: #333;
 }
 
-#com-atlassian-confluence .wiki-content .pl-md {
+body#com-atlassian-confluence .wiki-content .pl-md {
   color: #bd2c00;
   background-color: #ffecec;
 }
 
-#com-atlassian-confluence .wiki-content .pl-mi1 {
+body#com-atlassian-confluence .wiki-content .pl-mi1 {
   color: #55a532;
   background-color: #eaffea;
 }
 
-#com-atlassian-confluence .wiki-content .pl-mdr {
+body#com-atlassian-confluence .wiki-content .pl-mdr {
   font-weight: bold;
   color: #795da3;
 }
 
-#com-atlassian-confluence .wiki-content .pl-mo {
+body#com-atlassian-confluence .wiki-content .pl-mo {
   color: #1d3e81;
 }
 
-#com-atlassian-confluence .wiki-content .octicon {
+body#com-atlassian-confluence .wiki-content .octicon {
   display: inline-block;
   vertical-align: text-top;
   fill: currentColor;
 }
 
-#com-atlassian-confluence .wiki-content a {
+body#com-atlassian-confluence .wiki-content a {
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
 }
 
-#com-atlassian-confluence .wiki-content a:active,
-#com-atlassian-confluence .wiki-content a:hover {
+body#com-atlassian-confluence .wiki-content a:active,
+body#com-atlassian-confluence .wiki-content a:hover {
   outline-width: 0;
 }
 
-#com-atlassian-confluence .wiki-content strong {
+body#com-atlassian-confluence .wiki-content strong {
   font-weight: inherit;
 }
 
-#com-atlassian-confluence .wiki-content strong {
+body#com-atlassian-confluence .wiki-content strong {
   font-weight: bolder;
 }
 
-#com-atlassian-confluence .wiki-content h1 {
+body#com-atlassian-confluence .wiki-content h1 {
   font-size: 2em;
   margin: 0.67em 0;
 }
 
-#com-atlassian-confluence .wiki-content img {
+body#com-atlassian-confluence .wiki-content img {
   border-style: none;
 }
 
-#com-atlassian-confluence .wiki-content svg:not(:root) {
+body#com-atlassian-confluence .wiki-content svg:not(:root) {
   overflow: hidden;
 }
 
-#com-atlassian-confluence .wiki-content code,
-#com-atlassian-confluence .wiki-content kbd,
-#com-atlassian-confluence .wiki-content pre {
+body#com-atlassian-confluence .wiki-content code,
+body#com-atlassian-confluence .wiki-content kbd,
+body#com-atlassian-confluence .wiki-content pre {
   font-family: monospace, monospace;
   font-size: 1em;
 }
 
-#com-atlassian-confluence .wiki-content hr {
+body#com-atlassian-confluence .wiki-content hr {
   box-sizing: content-box;
   height: 0;
   overflow: visible;
 }
 
-#com-atlassian-confluence .wiki-content input {
+body#com-atlassian-confluence .wiki-content input {
   font: inherit;
   margin: 0;
 }
 
-#com-atlassian-confluence .wiki-content input {
+body#com-atlassian-confluence .wiki-content input {
   overflow: visible;
 }
 
-#com-atlassian-confluence .wiki-content [type="checkbox"] {
+body#com-atlassian-confluence .wiki-content [type="checkbox"] {
   box-sizing: border-box;
   padding: 0;
 }
 
-#com-atlassian-confluence .wiki-content * {
+body#com-atlassian-confluence .wiki-content * {
   box-sizing: border-box;
 }
 
-#com-atlassian-confluence .wiki-content input {
+body#com-atlassian-confluence .wiki-content input {
   font-family: inherit;
   font-size: inherit;
   line-height: inherit;
 }
 
-#com-atlassian-confluence .wiki-content a {
+body#com-atlassian-confluence .wiki-content a {
   color: #4078c0;
   text-decoration: none;
 }
 
-#com-atlassian-confluence .wiki-content a:hover,
-#com-atlassian-confluence .wiki-content a:active {
+body#com-atlassian-confluence .wiki-content a:hover,
+body#com-atlassian-confluence .wiki-content a:active {
   text-decoration: underline;
 }
 
-#com-atlassian-confluence .wiki-content strong {
+body#com-atlassian-confluence .wiki-content strong {
   font-weight: 600;
 }
 
-#com-atlassian-confluence .wiki-content hr {
+body#com-atlassian-confluence .wiki-content hr {
   height: 0;
   margin: 15px 0;
   overflow: hidden;
@@ -219,166 +219,166 @@ body#com-atlassian-confluence .wiki-content * {
   border-bottom: 1px solid #ddd;
 }
 
-#com-atlassian-confluence .wiki-content hr::before {
+body#com-atlassian-confluence .wiki-content hr::before {
   display: table;
   content: "";
 }
 
-#com-atlassian-confluence .wiki-content hr::after {
+body#com-atlassian-confluence .wiki-content hr::after {
   display: table;
   clear: both;
   content: "";
 }
 
-#com-atlassian-confluence .wiki-content table {
+body#com-atlassian-confluence .wiki-content table {
   border-spacing: 0;
   border-collapse: collapse;
 }
 
-#com-atlassian-confluence .wiki-content td,
-#com-atlassian-confluence .wiki-content th {
+body#com-atlassian-confluence .wiki-content td,
+body#com-atlassian-confluence .wiki-content th {
   padding: 0;
 }
 
-#com-atlassian-confluence .wiki-content h1,
-#com-atlassian-confluence .wiki-content h2,
-#com-atlassian-confluence .wiki-content h3,
-#com-atlassian-confluence .wiki-content h4,
-#com-atlassian-confluence .wiki-content h5,
-#com-atlassian-confluence .wiki-content h6 {
+body#com-atlassian-confluence .wiki-content h1,
+body#com-atlassian-confluence .wiki-content h2,
+body#com-atlassian-confluence .wiki-content h3,
+body#com-atlassian-confluence .wiki-content h4,
+body#com-atlassian-confluence .wiki-content h5,
+body#com-atlassian-confluence .wiki-content h6 {
   margin-top: 0;
   margin-bottom: 0;
 }
 
-#com-atlassian-confluence .wiki-content h1 {
+body#com-atlassian-confluence .wiki-content h1 {
   font-size: 32px;
   font-weight: 600;
 }
 
-#com-atlassian-confluence .wiki-content h2 {
+body#com-atlassian-confluence .wiki-content h2 {
   font-size: 24px;
   font-weight: 600;
 }
 
-#com-atlassian-confluence .wiki-content h3 {
+body#com-atlassian-confluence .wiki-content h3 {
   font-size: 20px;
   font-weight: 600;
 }
 
-#com-atlassian-confluence .wiki-content h4 {
+body#com-atlassian-confluence .wiki-content h4 {
   font-size: 16px;
   font-weight: 600;
 }
 
-#com-atlassian-confluence .wiki-content h5 {
+body#com-atlassian-confluence .wiki-content h5 {
   font-size: 14px;
   font-weight: 600;
 }
 
-#com-atlassian-confluence .wiki-content h6 {
+body#com-atlassian-confluence .wiki-content h6 {
   font-size: 12px;
   font-weight: 600;
 }
 
-#com-atlassian-confluence .wiki-content p {
+body#com-atlassian-confluence .wiki-content p {
   margin-top: 0;
   margin-bottom: 10px;
 }
 
-#com-atlassian-confluence .wiki-content blockquote {
+body#com-atlassian-confluence .wiki-content blockquote {
   margin: 0;
 }
 
-#com-atlassian-confluence .wiki-content ul,
-#com-atlassian-confluence .wiki-content ol {
+body#com-atlassian-confluence .wiki-content ul,
+body#com-atlassian-confluence .wiki-content ol {
   padding-left: 0;
   margin-top: 0;
   margin-bottom: 0;
 }
 
-#com-atlassian-confluence .wiki-content ol ol,
-#com-atlassian-confluence .wiki-content ul ol {
+body#com-atlassian-confluence .wiki-content ol ol,
+body#com-atlassian-confluence .wiki-content ul ol {
   list-style-type: lower-roman;
 }
 
-#com-atlassian-confluence .wiki-content ul ul ol,
-#com-atlassian-confluence .wiki-content ul ol ol,
-#com-atlassian-confluence .wiki-content ol ul ol,
-#com-atlassian-confluence .wiki-content ol ol ol {
+body#com-atlassian-confluence .wiki-content ul ul ol,
+body#com-atlassian-confluence .wiki-content ul ol ol,
+body#com-atlassian-confluence .wiki-content ol ul ol,
+body#com-atlassian-confluence .wiki-content ol ol ol {
   list-style-type: lower-alpha;
 }
 
-#com-atlassian-confluence .wiki-content dd {
+body#com-atlassian-confluence .wiki-content dd {
   margin-left: 0;
 }
 
-#com-atlassian-confluence .wiki-content code {
+body#com-atlassian-confluence .wiki-content code {
   font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
   font-size: 12px;
 }
 
-#com-atlassian-confluence .wiki-content pre {
+body#com-atlassian-confluence .wiki-content pre {
   margin-top: 0;
   margin-bottom: 0;
   font: 12px Consolas, "Liberation Mono", Menlo, Courier, monospace;
 }
 
-#com-atlassian-confluence .wiki-content .octicon {
+body#com-atlassian-confluence .wiki-content .octicon {
   vertical-align: text-bottom;
 }
 
-#com-atlassian-confluence .wiki-content input {
+body#com-atlassian-confluence .wiki-content input {
   -webkit-font-feature-settings: "liga" 0;
   font-feature-settings: "liga" 0;
 }
 
-#com-atlassian-confluence .wiki-content::before {
+body#com-atlassian-confluence .wiki-content::before {
   display: table;
   content: "";
 }
 
-#com-atlassian-confluence .wiki-content::after {
+body#com-atlassian-confluence .wiki-content::after {
   display: table;
   clear: both;
   content: "";
 }
 
-#com-atlassian-confluence .wiki-content>*:first-child {
+body#com-atlassian-confluence .wiki-content>*:first-child {
   margin-top: 0 !important;
 }
 
-#com-atlassian-confluence .wiki-content>*:last-child {
+body#com-atlassian-confluence .wiki-content>*:last-child {
   margin-bottom: 0 !important;
 }
 
-#com-atlassian-confluence .wiki-content a:not([href]) {
+body#com-atlassian-confluence .wiki-content a:not([href]) {
   color: inherit;
   text-decoration: none;
 }
 
-#com-atlassian-confluence .wiki-content .anchor {
+body#com-atlassian-confluence .wiki-content .anchor {
   float: left;
   padding-right: 4px;
   margin-left: -20px;
   line-height: 1;
 }
 
-#com-atlassian-confluence .wiki-content .anchor:focus {
+body#com-atlassian-confluence .wiki-content .anchor:focus {
   outline: none;
 }
 
-#com-atlassian-confluence .wiki-content p,
-#com-atlassian-confluence .wiki-content blockquote,
-#com-atlassian-confluence .wiki-content ul,
-#com-atlassian-confluence .wiki-content ol,
-#com-atlassian-confluence .wiki-content dl,
-#com-atlassian-confluence .wiki-content table,
-#com-atlassian-confluence .wiki-content pre {
+body#com-atlassian-confluence .wiki-content p,
+body#com-atlassian-confluence .wiki-content blockquote,
+body#com-atlassian-confluence .wiki-content ul,
+body#com-atlassian-confluence .wiki-content ol,
+body#com-atlassian-confluence .wiki-content dl,
+body#com-atlassian-confluence .wiki-content table,
+body#com-atlassian-confluence .wiki-content pre {
   margin-top: 0;
   margin-bottom: 16px;
 }
 
-#com-atlassian-confluence .wiki-content hr {
+body#com-atlassian-confluence .wiki-content hr {
   height: 0.25em;
   padding: 0;
   margin: 24px 0;
@@ -386,21 +386,21 @@ body#com-atlassian-confluence .wiki-content * {
   border: 0;
 }
 
-#com-atlassian-confluence .wiki-content blockquote {
+body#com-atlassian-confluence .wiki-content blockquote {
   padding: 0 1em;
   color: #777;
   border-left: 0.25em solid #ddd;
 }
 
-#com-atlassian-confluence .wiki-content blockquote>:first-child {
+body#com-atlassian-confluence .wiki-content blockquote>:first-child {
   margin-top: 0;
 }
 
-#com-atlassian-confluence .wiki-content blockquote>:last-child {
+body#com-atlassian-confluence .wiki-content blockquote>:last-child {
   margin-bottom: 0;
 }
 
-#com-atlassian-confluence .wiki-content kbd {
+body#com-atlassian-confluence .wiki-content kbd {
   display: inline-block;
   padding: 3px 5px;
   font-size: 11px;
@@ -414,102 +414,102 @@ body#com-atlassian-confluence .wiki-content * {
   box-shadow: inset 0 -1px 0 #bbb;
 }
 
-#com-atlassian-confluence .wiki-content h1,
-#com-atlassian-confluence .wiki-content h2,
-#com-atlassian-confluence .wiki-content h3,
-#com-atlassian-confluence .wiki-content h4,
-#com-atlassian-confluence .wiki-content h5,
-#com-atlassian-confluence .wiki-content h6 {
+body#com-atlassian-confluence .wiki-content h1,
+body#com-atlassian-confluence .wiki-content h2,
+body#com-atlassian-confluence .wiki-content h3,
+body#com-atlassian-confluence .wiki-content h4,
+body#com-atlassian-confluence .wiki-content h5,
+body#com-atlassian-confluence .wiki-content h6 {
   margin-top: 24px;
   margin-bottom: 16px;
   font-weight: 600;
   line-height: 1.25;
 }
 
-#com-atlassian-confluence .wiki-content h1 .octicon-link,
-#com-atlassian-confluence .wiki-content h2 .octicon-link,
-#com-atlassian-confluence .wiki-content h3 .octicon-link,
-#com-atlassian-confluence .wiki-content h4 .octicon-link,
-#com-atlassian-confluence .wiki-content h5 .octicon-link,
-#com-atlassian-confluence .wiki-content h6 .octicon-link {
+body#com-atlassian-confluence .wiki-content h1 .octicon-link,
+body#com-atlassian-confluence .wiki-content h2 .octicon-link,
+body#com-atlassian-confluence .wiki-content h3 .octicon-link,
+body#com-atlassian-confluence .wiki-content h4 .octicon-link,
+body#com-atlassian-confluence .wiki-content h5 .octicon-link,
+body#com-atlassian-confluence .wiki-content h6 .octicon-link {
   color: #000;
   vertical-align: middle;
   visibility: hidden;
 }
 
-#com-atlassian-confluence .wiki-content h1:hover .anchor,
-#com-atlassian-confluence .wiki-content h2:hover .anchor,
-#com-atlassian-confluence .wiki-content h3:hover .anchor,
-#com-atlassian-confluence .wiki-content h4:hover .anchor,
-#com-atlassian-confluence .wiki-content h5:hover .anchor,
-#com-atlassian-confluence .wiki-content h6:hover .anchor {
+body#com-atlassian-confluence .wiki-content h1:hover .anchor,
+body#com-atlassian-confluence .wiki-content h2:hover .anchor,
+body#com-atlassian-confluence .wiki-content h3:hover .anchor,
+body#com-atlassian-confluence .wiki-content h4:hover .anchor,
+body#com-atlassian-confluence .wiki-content h5:hover .anchor,
+body#com-atlassian-confluence .wiki-content h6:hover .anchor {
   text-decoration: none;
 }
 
-#com-atlassian-confluence .wiki-content h1:hover .anchor .octicon-link,
-#com-atlassian-confluence .wiki-content h2:hover .anchor .octicon-link,
-#com-atlassian-confluence .wiki-content h3:hover .anchor .octicon-link,
-#com-atlassian-confluence .wiki-content h4:hover .anchor .octicon-link,
-#com-atlassian-confluence .wiki-content h5:hover .anchor .octicon-link,
-#com-atlassian-confluence .wiki-content h6:hover .anchor .octicon-link {
+body#com-atlassian-confluence .wiki-content h1:hover .anchor .octicon-link,
+body#com-atlassian-confluence .wiki-content h2:hover .anchor .octicon-link,
+body#com-atlassian-confluence .wiki-content h3:hover .anchor .octicon-link,
+body#com-atlassian-confluence .wiki-content h4:hover .anchor .octicon-link,
+body#com-atlassian-confluence .wiki-content h5:hover .anchor .octicon-link,
+body#com-atlassian-confluence .wiki-content h6:hover .anchor .octicon-link {
   visibility: visible;
 }
 
-#com-atlassian-confluence .wiki-content h1 {
+body#com-atlassian-confluence .wiki-content h1 {
   padding-bottom: 0.3em;
   font-size: 2em;
   border-bottom: 1px solid #eee;
 }
 
-#com-atlassian-confluence .wiki-content h2 {
+body#com-atlassian-confluence .wiki-content h2 {
   padding-bottom: 0.3em;
   font-size: 1.5em;
   border-bottom: 1px solid #eee;
 }
 
-#com-atlassian-confluence .wiki-content h3 {
+body#com-atlassian-confluence .wiki-content h3 {
   font-size: 1.25em;
 }
 
-#com-atlassian-confluence .wiki-content h4 {
+body#com-atlassian-confluence .wiki-content h4 {
   font-size: 1em;
 }
 
-#com-atlassian-confluence .wiki-content h5 {
+body#com-atlassian-confluence .wiki-content h5 {
   font-size: 0.875em;
 }
 
-#com-atlassian-confluence .wiki-content h6 {
+body#com-atlassian-confluence .wiki-content h6 {
   font-size: 0.85em;
   color: #777;
 }
 
-#com-atlassian-confluence .wiki-content ul,
-#com-atlassian-confluence .wiki-content ol {
+body#com-atlassian-confluence .wiki-content ul,
+body#com-atlassian-confluence .wiki-content ol {
   padding-left: 2em;
 }
 
-#com-atlassian-confluence .wiki-content ul ul,
-#com-atlassian-confluence .wiki-content ul ol,
-#com-atlassian-confluence .wiki-content ol ol,
-#com-atlassian-confluence .wiki-content ol ul {
+body#com-atlassian-confluence .wiki-content ul ul,
+body#com-atlassian-confluence .wiki-content ul ol,
+body#com-atlassian-confluence .wiki-content ol ol,
+body#com-atlassian-confluence .wiki-content ol ul {
   margin-top: 0;
   margin-bottom: 0;
 }
 
-#com-atlassian-confluence .wiki-content li>p {
+body#com-atlassian-confluence .wiki-content li>p {
   margin-top: 16px;
 }
 
-#com-atlassian-confluence .wiki-content li+li {
+body#com-atlassian-confluence .wiki-content li+li {
   margin-top: 0.25em;
 }
 
-#com-atlassian-confluence .wiki-content dl {
+body#com-atlassian-confluence .wiki-content dl {
   padding: 0;
 }
 
-#com-atlassian-confluence .wiki-content dl dt {
+body#com-atlassian-confluence .wiki-content dl dt {
   padding: 0;
   margin-top: 16px;
   font-size: 1em;
@@ -517,43 +517,43 @@ body#com-atlassian-confluence .wiki-content * {
   font-weight: bold;
 }
 
-#com-atlassian-confluence .wiki-content dl dd {
+body#com-atlassian-confluence .wiki-content dl dd {
   padding: 0 16px;
   margin-bottom: 16px;
 }
 
-#com-atlassian-confluence .wiki-content table {
+body#com-atlassian-confluence .wiki-content table {
   display: block;
   width: 100%;
   overflow: auto;
 }
 
-#com-atlassian-confluence .wiki-content table th {
+body#com-atlassian-confluence .wiki-content table th {
   font-weight: bold;
 }
 
-#com-atlassian-confluence .wiki-content table th,
-#com-atlassian-confluence .wiki-content table td {
+body#com-atlassian-confluence .wiki-content table th,
+body#com-atlassian-confluence .wiki-content table td {
   padding: 6px 13px;
   border: 1px solid #ddd;
 }
 
-#com-atlassian-confluence .wiki-content table tr {
+body#com-atlassian-confluence .wiki-content table tr {
   background-color: #fff;
   border-top: 1px solid #ccc;
 }
 
-#com-atlassian-confluence .wiki-content table tr:nth-child(2n) {
+body#com-atlassian-confluence .wiki-content table tr:nth-child(2n) {
   background-color: #f8f8f8;
 }
 
-#com-atlassian-confluence .wiki-content img {
+body#com-atlassian-confluence .wiki-content img {
   max-width: 100%;
   box-sizing: content-box;
   background-color: #fff;
 }
 
-#com-atlassian-confluence .wiki-content code {
+body#com-atlassian-confluence .wiki-content code {
   padding: 0;
   padding-top: 0.2em;
   padding-bottom: 0.2em;
@@ -563,17 +563,17 @@ body#com-atlassian-confluence .wiki-content * {
   border-radius: 3px;
 }
 
-#com-atlassian-confluence .wiki-content code::before,
-#com-atlassian-confluence .wiki-content code::after {
+body#com-atlassian-confluence .wiki-content code::before,
+body#com-atlassian-confluence .wiki-content code::after {
   letter-spacing: -0.2em;
   content: "\00a0";
 }
 
-#com-atlassian-confluence .wiki-content pre {
+body#com-atlassian-confluence .wiki-content pre {
   word-wrap: normal;
 }
 
-#com-atlassian-confluence .wiki-content pre>code {
+body#com-atlassian-confluence .wiki-content pre>code {
   padding: 0;
   margin: 0;
   font-size: 100%;
@@ -583,17 +583,17 @@ body#com-atlassian-confluence .wiki-content * {
   border: 0;
 }
 
-#com-atlassian-confluence .wiki-content .highlight {
+body#com-atlassian-confluence .wiki-content .highlight {
   margin-bottom: 16px;
 }
 
-#com-atlassian-confluence .wiki-content .highlight pre {
+body#com-atlassian-confluence .wiki-content .highlight pre {
   margin-bottom: 0;
   word-break: normal;
 }
 
-#com-atlassian-confluence .wiki-content .highlight pre,
-#com-atlassian-confluence .wiki-content pre {
+body#com-atlassian-confluence .wiki-content .highlight pre,
+body#com-atlassian-confluence .wiki-content pre {
   padding: 16px;
   overflow: auto;
   font-size: 85%;
@@ -602,7 +602,7 @@ body#com-atlassian-confluence .wiki-content * {
   border-radius: 3px;
 }
 
-#com-atlassian-confluence .wiki-content pre code {
+body#com-atlassian-confluence .wiki-content pre code {
   display: inline;
   max-width: auto;
   padding: 0;
@@ -614,45 +614,45 @@ body#com-atlassian-confluence .wiki-content * {
   border: 0;
 }
 
-#com-atlassian-confluence .wiki-content pre code::before,
-#com-atlassian-confluence .wiki-content pre code::after {
+body#com-atlassian-confluence .wiki-content pre code::before,
+body#com-atlassian-confluence .wiki-content pre code::after {
   content: normal;
 }
 
-#com-atlassian-confluence .wiki-content .pl-0 {
+body#com-atlassian-confluence .wiki-content .pl-0 {
   padding-left: 0 !important;
 }
 
-#com-atlassian-confluence .wiki-content .pl-1 {
+body#com-atlassian-confluence .wiki-content .pl-1 {
   padding-left: 3px !important;
 }
 
-#com-atlassian-confluence .wiki-content .pl-2 {
+body#com-atlassian-confluence .wiki-content .pl-2 {
   padding-left: 6px !important;
 }
 
-#com-atlassian-confluence .wiki-content .pl-3 {
+body#com-atlassian-confluence .wiki-content .pl-3 {
   padding-left: 12px !important;
 }
 
-#com-atlassian-confluence .wiki-content .pl-4 {
+body#com-atlassian-confluence .wiki-content .pl-4 {
   padding-left: 24px !important;
 }
 
-#com-atlassian-confluence .wiki-content .pl-5 {
+body#com-atlassian-confluence .wiki-content .pl-5 {
   padding-left: 36px !important;
 }
 
-#com-atlassian-confluence .wiki-content .pl-6 {
+body#com-atlassian-confluence .wiki-content .pl-6 {
   padding-left: 48px !important;
 }
 
-#com-atlassian-confluence .wiki-content .full-commit .btn-outline:not(:disabled):hover {
+body#com-atlassian-confluence .wiki-content .full-commit .btn-outline:not(:disabled):hover {
   color: #4078c0;
   border: 1px solid #4078c0;
 }
 
-#com-atlassian-confluence .wiki-content kbd {
+body#com-atlassian-confluence .wiki-content kbd {
   display: inline-block;
   padding: 3px 5px;
   font: 11px Consolas, "Liberation Mono", Menlo, Courier, monospace;
@@ -666,25 +666,25 @@ body#com-atlassian-confluence .wiki-content * {
   box-shadow: inset 0 -1px 0 #bbb;
 }
 
-#com-atlassian-confluence .wiki-content :checked+.radio-label {
+body#com-atlassian-confluence .wiki-content :checked+.radio-label {
   position: relative;
   z-index: 1;
   border-color: #4078c0;
 }
 
-#com-atlassian-confluence .wiki-content .task-list-item {
+body#com-atlassian-confluence .wiki-content .task-list-item {
   list-style-type: none;
 }
 
-#com-atlassian-confluence .wiki-content .task-list-item+.task-list-item {
+body#com-atlassian-confluence .wiki-content .task-list-item+.task-list-item {
   margin-top: 3px;
 }
 
-#com-atlassian-confluence .wiki-content .task-list-item input {
+body#com-atlassian-confluence .wiki-content .task-list-item input {
   margin: 0 0.2em 0.25em -1.6em;
   vertical-align: middle;
 }
 
-#com-atlassian-confluence .wiki-content hr {
+body#com-atlassian-confluence .wiki-content hr {
   border-bottom-color: #eee;
 }
